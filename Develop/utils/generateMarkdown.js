@@ -69,6 +69,7 @@ ${data.installation}
 ${data.usage}
 
 ${contributorLinks(data.contributor)}
+
 ${data.email}
 
 ## Test
