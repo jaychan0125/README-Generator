@@ -1,10 +1,8 @@
 
-# ReadMe Generator ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# README generator ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description 
 🦝🦝🦝 Hello! Welcome to my readme generator! Please answer the prompts, and a readme will be generated for you! Yay!! 🦝🦝🦝
-
-
 
 ## Table of Contents 
 - [Installation](#installation)
@@ -17,15 +15,13 @@
 npm inquirer
 
 ## Usage
-ReadMe through prompts
+readme through prompts
 
 ## Contributors and Questions 
-If you have questions, please visit our profiles: 
-[jaychan0125](https://github.com/jaychan0125)
+If you have questions, please visit our profiles:  [jaychan0125](https://github.com/jaychan0125)  [jaychan0125](https://github.com/jaychan0125)
 
 ## Test
-Give it a try!
+give it a try!
 
-## License 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT)
+## License  Licensed under the [MIT License](https://opensource.org/licenses/MIT)
 
