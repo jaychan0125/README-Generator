@@ -1,8 +1,8 @@
 
-# RM Gen ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+# README generator ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description 
-sfalasdf
+🦝🦝🦝 Hello! Welcome to my readme generator! Please answer the prompts, and a readme will be generated for you! Yay!! 🦝🦝🦝
 
 ## Table of Contents 
 - [Installation](#installation)
@@ -12,19 +12,19 @@ sfalasdf
 - [License](#license)
 
 ## Installation
-askldjf
+npm inquirer
 
 ## Usage
-aslfkj
+readme through prompts
 
 ## Contributors and Questions
 If you have questions, please visit our profiles:
-  [jaychan0125](https://github.com/jaychan0125)
-  [jaychan0125](https://github.com/jaychan0125)
+- [jaychan0125](https://github.com/jaychan0125)
+- [jaychan0125](https://github.com/jaychan0125)
 
 ## Test
-aslkjfd
+try it out!
 
 ## License
-Licensed under the [GNU GPL v3 License](https://www.gnu.org/licenses/gpl-3.0)
+Licensed under the [MIT License](https://opensource.org/licenses/MIT)
 
