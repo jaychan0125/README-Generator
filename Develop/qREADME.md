@@ -1,8 +1,8 @@
 
-# README Generator ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# alaskdjfa ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
 ## Description 
-🦝🦝🦝 Hello! Welcome to my readme generator! Please answer the prompts, and a readme will be generated for you! Yay!! 🦝🦝🦝
+alsdkfj
 
 ## Table of Contents 
 - [Installation](#installation)
@@ -12,19 +12,18 @@
 - [License](#license)
 
 ## Installation
-npm inquirer
+aslkjfd
 
 ## Usage
-readme through prompts
+alfksdj
 
 ## Contributors and Questions
-  If you have questions, please visit our profiles:
-  [jaychan0125](https://github.com/jaychan0125)
-  [jaychan0125](https://github.com/jaychan0125)
+If you have questions, please visit our profiles:
+[aslfkdj](https://github.com/aslfkdj)
 
 ## Test
-try it out!
+aslkjf
 
 ## License
-  Licensed under the [MIT License](https://opensource.org/licenses/MIT)
+Licensed under the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0)
 
