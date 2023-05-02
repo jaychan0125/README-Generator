@@ -2,7 +2,7 @@
 # ReadMe Generator ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description 
-🦝🦝🦝 \nHello! Welcome to my readme generator! \nPlease answer the prompts, \nand a readme will be generated for you! \nYay!! \n🦝🦝🦝
+🦝🦝🦝 Hello! Welcome to my readme generator! Please answer the prompts, and a readme will be generated for you! Yay!! 🦝🦝🦝
 
 
 
@@ -20,7 +20,7 @@ npm inquirer
 ReadMe through prompts
 
 ## Contributors and Questions 
-If you have questions, please visit our profiles:
+If you have questions, please visit our profiles: 
 [jaychan0125](https://github.com/jaychan0125)
 
 ## Test
