@@ -13,7 +13,7 @@ Yay!!
 ## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributors](#contributors and questions)
+- [Contributors](#contributors-and-questions)
 - [Test](#test)
 - [License](#license)
 
