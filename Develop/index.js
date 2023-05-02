@@ -57,7 +57,7 @@ function init() {
   questions
     .then((answers) => {
       const markdown = generateMarkdown(answers);
-      writeToFile('qREADME.md', markdown);
+      writeToFile('README.md', markdown);
     })
     .catch((err) => {
       console.error(err)
