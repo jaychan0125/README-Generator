@@ -33,6 +33,11 @@ const questions = inquirer
     },
     {
       type: "input",
+      message: "What email can others contact for questions?",
+      name: "email",
+    },
+    {
+      type: "input",
       message: "How would you like to test the project?",
       name: "test",
     },
